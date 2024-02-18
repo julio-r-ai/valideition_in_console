@@ -1,0 +1,7 @@
+C:\Users\gmjul\Documents\C#\Console\MeuPromeiroProjetoConsole\MeuPromeiroProjetoConsole\bin\Debug\MeuPromeiroProjetoConsole.exe.config
+C:\Users\gmjul\Documents\C#\Console\MeuPromeiroProjetoConsole\MeuPromeiroProjetoConsole\bin\Debug\MeuPromeiroProjetoConsole.exe
+C:\Users\gmjul\Documents\C#\Console\MeuPromeiroProjetoConsole\MeuPromeiroProjetoConsole\bin\Debug\MeuPromeiroProjetoConsole.pdb
+C:\Users\gmjul\Documents\C#\Console\MeuPromeiroProjetoConsole\MeuPromeiroProjetoConsole\obj\Debug\MeuPromeiroProjetoConsole.csproj.AssemblyReference.cache
+C:\Users\gmjul\Documents\C#\Console\MeuPromeiroProjetoConsole\MeuPromeiroProjetoConsole\obj\Debug\MeuPromeiroProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\gmjul\Documents\C#\Console\MeuPromeiroProjetoConsole\MeuPromeiroProjetoConsole\obj\Debug\MeuPromeiroProjetoConsole.exe
+C:\Users\gmjul\Documents\C#\Console\MeuPromeiroProjetoConsole\MeuPromeiroProjetoConsole\obj\Debug\MeuPromeiroProjetoConsole.pdb
